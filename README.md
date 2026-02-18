@@ -16,3 +16,11 @@ CSS, or Cascading Style Sheets, is the language used to control the presentation
 Uncover the power of layout design! Dive into 'CSS Grid: A Complete Guide to CSS Grid' and master the art of creating dynamic, responsive layouts. Explore the versatility of CSS Grid for modern web design.
 
 
+**
+# CSS Projects - Elevate your designing skills
+# Project-1
+<img width="946" alt="Screenshot 2024-01-04 164542" src="https://github.com/AbhishekShrivastav73/Front-End-Domination---With-Sheryians-Coding-Schools-/assets/147899930/d9b6c141-4781-449f-ab65-211f87daede7">
+ 
+# Project-2
+Project Link  - https://in.pinterest.com/pin/825214331746058643/feedback/?invite_code=689163d3868f4d64a87a3871664a5557&sender_id=825214469129958622
+**
