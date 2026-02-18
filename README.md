@@ -1,0 +1,16 @@
+
+# HTML - Making Architecture
+Embark on the HTML adventure! This video introduces you to the building blocks of web development. Uncover the power of HTML as we demystify its essentials, setting the stage for your journey into the fascinating world of coding.
+
+ - HTMl level 1 Craft a robust coding foundation with HTML! This video guides you through the essentials, ensuring you build a sturdy base for your web development journey. From tags to structure, master the art of creating solid HTML structures.
+ - HTML Level 2 Dive into HTML mastery! This video breaks down the magic of HTML tags. Unlock the power of these building blocks, understanding how each tag contributes to the creation of dynamic and structured web content.
+
+# HTML-5: Semantic.
+Demystifying HTML5 Semantic Elements! Learn what they are and how to wield them effectively. This video offers insights into utilizing HTML5 Semantic Elements to enhance website
+structure and accessibility.
+
+# CSS Basics - Styling things UP
+CSS, or Cascading Style Sheets, is the language used to control the presentation and layout of web pages. It allows you to define the visual style of HTML elements, including fonts, colors, spacing, and more.
+
+# CSS Grid Layout
+Uncover the power of layout design! Dive into 'CSS Grid: A Complete Guide to CSS Grid' and master the art of creating dynamic, responsive layouts. Explore the versatility of CSS Grid for modern web design.
