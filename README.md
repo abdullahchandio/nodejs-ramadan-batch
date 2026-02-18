@@ -23,4 +23,6 @@ Uncover the power of layout design! Dive into 'CSS Grid: A Complete Guide to CSS
  
 # Project-2
 Project Link  - https://in.pinterest.com/pin/825214331746058643/feedback/?invite_code=689163d3868f4d64a87a3871664a5557&sender_id=825214469129958622
-**
+
+**![Caps store](https://github.com/user-attachments/assets/76f6a1f4-e671-4714-96e3-ebe476ca3106)
+
