@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <input type="text" id="searchInput" placeholder="Search Items"/>
+    <button onclick="searchItems()" >Search</button>
+
+
+
+    <div id="result"></div>  
+
+
+
+    <script>
+
+            // based on two sum algorithm.
+
+    let items = ["bag", "shoes", "watch", "sunglasses", "wallet" , "belt", "hat", "scarf", "gloves", "jacket"];
+   
+        function searchItems() {
+            let search = document.getElementById("searchInput").value;
+            let found = false;
+            for(let i = 0; i <items.length;i++){
+                if(items[i].toLowerCase() === search.toLowerCase()){
+                    found = true;
+                    break;
+                }
+            }
+                if(found){
+                    document.getElementById("result").innerHTML = "Item found: " + search;
+                }
+                else{
+                    document.getElementById("result").innerHTML = "Item not found";
+                }
+            }
+   </script>
+</body>
+</html>

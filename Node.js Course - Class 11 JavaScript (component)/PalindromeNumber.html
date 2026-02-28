@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Palindrome Number
+</title>
+</head>
+<body>
+    <input type="text" id="number" placeholder="enter number"/>
+    <button onclick="paildNumber()">Check</button>
+
+<script>
+
+    function paildNumber (){
+        let num = document.getElementById('number').value; // target value fronm input field
+        let re = num.split('').reverse().join(''); 
+
+        // split() // [1,2,3,]
+        // reverse() // [3,2,1]
+        // join() // 321
+        if(num === re){
+            alert(num + " is a palindrome number");
+        }else{
+            alert(num + " is not a palindrome number");
+        }
+    }
+
+
+
+</script>
+</body>
+</html>

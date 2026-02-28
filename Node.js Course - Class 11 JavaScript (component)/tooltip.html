@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .tooltip{
+            position: relative;
+            display: inline-block;
+        }
+        .tooltip-text{
+            visibility: hidden;
+            background: black;
+            color : white;
+            text-align: start;
+            top: -30px;
+            left: 0;
+        }
+        .tooltip:hover .tooltip-text{
+            visibility: visible;
+        }
+    </style>
+
+
+</head>
+<body>
+
+
+    <div class="tooltip">
+        HOver me 
+        <span class="tooltip-text">
+            This is a tooltip text that appears when you hover over the element.
+        </span>
+    </div>
+
+
+
+
+</body>
+</html>

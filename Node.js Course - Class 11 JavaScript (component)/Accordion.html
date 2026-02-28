@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .accordion-item{
+            border: 1px solid black;
+            margin-bottom: 10px;
+        }
+
+        .header{
+            padding: 20px;
+            background-color: #eee;
+            cursor: pointer;
+        }
+    </style>
+
+
+</head>
+<body>
+    <div class="accordion-item">
+        <div class="header" onclick="toggleAccordion(this)">click me</div>
+        <div class="body">
+            Accordion content by abdullah
+        </div>
+    </div>
+
+
+    <script>
+        function toggleAccordion(el) {
+           let body = el.nextElementSibling;
+           body.style.display = body.style.display === "block"? "none":"block"; 
+        }
+    </script>
+    
+
+</body>
+</html>
